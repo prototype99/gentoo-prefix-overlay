@@ -10,5 +10,4 @@ Note: I do not still make sure of installing in Mountain Lion.
     overlays  : http://www.gentoo.org/proj/en/overlays/repositories.xml
 	  http://github.com/nana4gonta/gentoo-prefix-overlay/raw/master/repository.xml
 * enter the command
-    layman -a naota-prefix
-
+    layman -a nana4gonta-prefix
